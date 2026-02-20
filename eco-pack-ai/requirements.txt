@@ -9,4 +9,4 @@ flask
 flask-cors
 matplotlib
 plotly
-streamlit
+gunicorn
